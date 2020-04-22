@@ -1,0 +1,27 @@
+body{
+    background: #111;
+    color: #fff;
+}
+
+#container{
+    width: 50%;
+    /* background: #fff; */
+    border: 5px solid #ff0000;
+    margin: 0 auto;
+    padding: 3rem;
+    margin-top: 3rem;
+}
+
+span{
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.fa{
+    color: #ff0000;
+}
+
+.done{
+    color: #a1a1a1;
+    text-decoration: line-through;
+}
